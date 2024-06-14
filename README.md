@@ -18,6 +18,10 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 - 👋 Hi, I’m Ayushi Gupta
 - 👀 I’m interested in tech in general. I am into Full Stack development and DevOps these days.
 - 🌱 I’m currently learning concepts of DevOps and some DSA.
