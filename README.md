@@ -29,7 +29,6 @@
 - 🌱 I’m currently learning concepts of DevOps and some DSA.
 - 📫 How to reach me
   - Email: ayushigupta36881@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/ayushigupta1604/
 - 😄 Pronouns: She/ her
 - ⚡ Fun fact: I initial hated this field 🥱
 
@@ -49,3 +48,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=AyushiGupta160604
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AyushiGupta160604&theme=dark&background=000000)](https://git.io/streak-stats)
