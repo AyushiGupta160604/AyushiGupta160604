@@ -29,6 +29,9 @@
 - 🌱 I’m currently learning concepts of DevOps and some DSA.
 - 📫 How to reach me
   - Email: ayushigupta36881@gmail.com
+  - Topmate: https://topmate.io/ayushi_gupta16/
+  - GitHub: https://github.com/AyushiGupta160604
+  - LinkedIn: https://www.linkedin.com/in/ayushigupta1604/
 - 😄 Pronouns: She/ her
 - ⚡ Fun fact: I initial hated this field 🥱
 
