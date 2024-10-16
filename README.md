@@ -33,7 +33,7 @@
   - GitHub: https://github.com/AyushiGupta160604
   - LinkedIn: https://www.linkedin.com/in/ayushigupta1604/
 - 😄 Pronouns: She/ her
-- ⚡ Fun fact: I initial hated this field 🥱
+- ⚡ Fun fact: I initially hated this field 🥱
 
 ---
 
